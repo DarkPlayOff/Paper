@@ -1,35 +1,5 @@
 
 
-    GoalKey<Mob> INTERACT = create("interact", Mob.class);
-
-    GoalKey<Mob> LEAP_AT = create("leap_at", Mob.class);
-
-    GoalKey<Mob> LOOK_AT_PLAYER = create("look_at_player", Mob.class);
-
-    GoalKey<Mob> NEAREST_ATTACKABLE = create("nearest_attackable", Mob.class);
-
-    GoalKey<Mob> OCELOT_ATTACK = create("ocelot_attack", Mob.class);
-
-    GoalKey<Mob> OPEN_DOOR = create("open_door", Mob.class);
-
-    GoalKey<Mob> RANDOM_LOOK_AROUND = create("random_look_around", Mob.class);
-
-    GoalKey<Mob> RESET_UNIVERSAL_ANGER = create("reset_universal_anger", Mob.class);
-
-    GoalKey<Mob> USE_ITEM = create("use_item", Mob.class);
-
-    GoalKey<Mob> VINDICATOR_BREAK_DOOR = create("vindicator_break_door", Mob.class);
-
-    GoalKey<Monster> RANGED_BOW_ATTACK = create("ranged_bow_attack", Monster.class);
-
-    GoalKey<Monster> RANGED_CROSSBOW_ATTACK = create("ranged_crossbow_attack", Monster.class);
-
-    GoalKey<Ocelot> OCELOT_AVOID_ENTITY = create("ocelot_avoid_entity", Ocelot.class);
-
-    GoalKey<Ocelot> OCELOT_TEMPT = create("ocelot_tempt", Ocelot.class);
-
-    GoalKey<Panda> PANDA_ATTACK = create("panda_attack", Panda.class);
-
     GoalKey<Panda> PANDA_AVOID = create("panda_avoid", Panda.class);
 
     GoalKey<Panda> PANDA_BREED = create("panda_breed", Panda.class);
