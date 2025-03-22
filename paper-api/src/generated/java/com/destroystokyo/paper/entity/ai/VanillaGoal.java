@@ -1,30 +1,4 @@
 
-
-    GoalKey<Creature> PANIC = create("panic", Creature.class);
-
-    GoalKey<Creature> PARROT
-    GoalKey<Dolphin> DOLPHIN_SWIM_TO_TREASURE = create("dolphin_swim_to_treasure", Dolphin.class);
-
-    GoalKey<Dolphin> DOLPHIN_SWIM_WITH_PLAYER = create("dolphin_swim_with_player", Dolphin.class);
-
-    GoalKey<Dolphin> PLAY_WITH_ITEMS = create("play_with_items", Dolphin.class);
-
-    GoalKey<Drowned> DROWNED_ATTACK = create("drowned_attack", Drowned.class);
-
-    GoalKey<Drowned> DROWNED_GO_TO_BEACH = create("drowned_go_to_beach", Drowned.class);
-
-    GoalKey<Drowned> DROWNED_SWIM_UP = create("drowned_swim_up", Drowned.class);
-
-    GoalKey<Enderman> ENDERMAN_FREEZE_WHEN_LOOKED_AT = create("enderman_freeze_when_looked_at", Enderman.class);
-
-    GoalKey<Enderman> ENDERMAN_LEAVE_BLOCK = create("enderman_leave_block", Enderman.class);
-
-    GoalKey<Enderman> ENDERMAN_LOOK_FOR_PLAYER = create("enderman_look_for_player", Enderman.class);
-
-    GoalKey<Enderman> ENDERMAN_TAKE_BLOCK = create("enderman_take_block", Enderman.class);
-
-    GoalKey<Evoker> EVOKER_ATTACK_SPELL = create("evoker_attack_spell", Evoker.class);
-
     GoalKey<Evoker> EVOKER_CASTING_SPELL = create("evoker_casting_spell", Evoker.class);
 
     GoalKey<Evoker> EVOKER_SUMMON_SPELL = create("evoker_summon_spell", Evoker.class);
