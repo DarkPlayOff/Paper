@@ -1,30 +1,5 @@
 
 
-
-    GoalKey<Raider> RAIDER_MOVE_THROUGH_VILLAGE = create("raider_move_through_village", Raider.class);
-
-    GoalKey<RangedEntity> DROWNED_TRIDENT_ATTACK = create("drowned_trident_attack", RangedEntity.class);
-
-    GoalKey<RangedEntity> RANGED_ATTACK = create("ranged_attack", RangedEntity.class);
-
-    GoalKey<SchoolableFish> FOLLOW_FLOCK_LEADER = create("follow_flock_leader", SchoolableFish.class);
-
-    GoalKey<Shulker> SHULKER_ATTACK = create("shulker_attack", Shulker.class);
-
-    GoalKey<Shulker> SHULKER_DEFENSE_ATTACK = create("shulker_defense_attack", Shulker.class);
-
-    GoalKey<Shulker> SHULKER_NEAREST_ATTACK = create("shulker_nearest_attack", Shulker.class);
-
-    GoalKey<Shulker> SHULKER_PEEK = create("shulker_peek", Shulker.class);
-
-    GoalKey<Silverfish> SILVERFISH_MERGE_WITH_STONE = create("silverfish_merge_with_stone", Silverfish.class);
-
-    GoalKey<Silverfish> SILVERFISH_WAKE_UP_FRIENDS = create("silverfish_wake_up_friends", Silverfish.class);
-
-    GoalKey<SkeletonHorse> SKELETON_TRAP = create("skeleton_trap", SkeletonHorse.class);
-
-    GoalKey<Slime> SLIME_ATTACK = create("slime_attack", Slime.class);
-
     GoalKey<Slime> SLIME_FLOAT = create("slime_float", Slime.class);
 
     GoalKey<Slime> SLIME_KEEP_ON_JUMPING = create("slime_keep_on_jumping", Slime.class);
