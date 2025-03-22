@@ -1,27 +1,4 @@
 
-
-    GoalKey<Slime> SLIME_FLOAT = create("slime_float", Slime.class);
-
-    GoalKey<Slime> SLIME_KEEP_ON_JUMPING = create("slime_keep_on_jumping", Slime.class);
-
-    GoalKey<Slime> SLIME_RANDOM_DIRECTION = create("slime_random_direction", Slime.class);
-
-    GoalKey<Spellcaster> SPELLCASTER_CASTING_SPELL = create("spellcaster_casting_spell", Spellcaster.class);
-
-    GoalKey<Spider> SPIDER = create("spider", Spider.class);
-
-    GoalKey<Spider> SPIDER_ATTACK = create("spider_attack", Spider.class);
-
-    GoalKey<Squid> SQUID_FLEE = create("squid_flee", Squid.class);
-
-    GoalKey<Squid> SQUID_RANDOM_MOVEMENT = create("squid_random_movement", Squid.class);
-
-    GoalKey<Strider> STRIDER_GO_TO_LAVA = create("strider_go_to_lava", Strider.class);
-
-    GoalKey<Tameable> FOLLOW_OWNER = create("follow_owner", Tameable.class);
-
-    GoalKey<Tameable> NON_TAME_RANDOM = create("non_tame_random", Tameable.class);
-
     GoalKey<Tameable> OWNER_HURT = create("owner_hurt", Tameable.class);
 
     GoalKey<Tameable> OWNER_HURT_BY = create("owner_hurt_by", Tameable.class);
