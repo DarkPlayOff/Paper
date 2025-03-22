@@ -1,34 +1,7 @@
 
 import org.bukkit.entity.Rabbit;
 import org.bukkit.entity.Raider;
-import org.bukkit.entity.Shulker;
-import org.bukkit.entity.Silverfish;
-import org.bukkit.entity.SkeletonHorse;
-import org.bukkit.entity.Slime;
-import org.bukkit.entity.Spellcaster;
-import org.bukkit.entity.Spider;
-import org.bukkit.entity.Squid;
-import org.bukkit.entity.Strider;
-import org.bukkit.entity.Tameable;
-import org.bukkit.entity.Turtle;
-import org.bukkit.entity.Vex;
-import org.bukkit.entity.Vindicator;
-import org.bukkit.entity.WanderingTrader;
-import org.bukkit.entity.Wither;
-import org.bukkit.entity.Wolf;
-import org.bukkit.entity.Zombie;
-import org.jspecify.annotations.NullMarked;
-
-/**
- * Vanilla keys for Mob Goals.
- *
- * @apiNote The fields provided here are a direct representation of
- * what is available from the vanilla game source. They may be
- * changed (including removals) on any Minecraft version
- * bump, so cross-version compatibility is not provided on the
- * same level as it is on most of the other API.
- */
-@SuppressWarnings({
+import
         "unused",
         "SpellCheckingInspection"
 })
