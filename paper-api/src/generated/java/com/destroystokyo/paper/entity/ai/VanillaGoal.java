@@ -2,30 +2,7 @@
 import org.bukkit.entity.Rabbit;
 import org.bukkit.entity.Raider;
 import
-        "unused",
-        "SpellCheckingInspection"
-})
-@GeneratedFrom("1.21.4")
-@NullMarked
-public interface VanillaGoal<T extends Mob> extends Goal<T> {
-    GoalKey<AbstractHorse> RANDOM_STAND = create("random_stand", AbstractHorse.class);
-
-    GoalKey<AbstractHorse> RUN_AROUND_LIKE_CRAZY = create("run_around_like_crazy", AbstractHorse.class);
-
-    GoalKey<AbstractSkeleton> ABSTRACT_SKELETON_MELEE = create("abstract_skeleton_melee", AbstractSkeleton.class);
-
-    GoalKey<AbstractVillager> LOOK_AT_TRADING_PLAYER = create("look_at_trading_player", AbstractVillager.class);
-
-    GoalKey<AbstractVillager> TRADE_WITH_PLAYER = create("trade_with_player", AbstractVillager.class);
-
-    GoalKey<Animals> BREED = create("breed", Animals.class);
-
-    GoalKey<Animals> FOLLOW_PARENT = create("follow_parent", Animals.class);
-
-    GoalKey<Bee> BEE_ATTACK = create("bee_attack", Bee.class);
-
-    GoalKey<Bee> BEE_BECOME_ANGRY = create("bee_become_angry", Bee.class);
-
+   
     GoalKey<Bee> BEE_ENTER_HIVE = create("bee_enter_hive", Bee.class);
 
     GoalKey<Bee> BEE_GO_TO_HIVE = create("bee_go_to_hive", Bee.class);
