@@ -1,31 +1,5 @@
 
 
-    GoalKey<Cat> CAT_TEMPT = create("cat_tempt", Cat.class);
-
-    GoalKey<Creature> AVOID_ENTITY = create("avoid_entity", Creature.class);
-
-    GoalKey<Creature> BREATH_AIR = create("breath_air", Creature.class);
-
-    GoalKey<Creature> DROWNED_GO_TO_WATER = create("drowned_go_to_water", Creature.class);
-
-    GoalKey<Creature> FLEE_SUN = create("flee_sun", Creature.class);
-
-    GoalKey<Creature> FOLLOW_BOAT = create("follow_boat", Creature.class);
-
-    GoalKey<Creature> GOLEM_RANDOM_STROLL_IN_VILLAGE = create("golem_random_stroll_in_village", Creature.class);
-
-    GoalKey<Creature> HURT_BY = create("hurt_by", Creature.class);
-
-    GoalKey<Creature> MELEE_ATTACK = create("melee_attack", Creature.class);
-
-    GoalKey<Creature> MOVE_BACK_TO_VILLAGE = create("move_back_to_village", Creature.class);
-
-    GoalKey<Creature> MOVE_THROUGH_VILLAGE = create("move_through_village", Creature.class);
-
-    GoalKey<Creature> MOVE_TOWARDS = create("move_towards", Creature.class);
-
-    GoalKey<Creature> MOVE_TOWARDS_RESTRICTION = create("move_towards_restriction", Creature.class);
-
     GoalKey<Creature> PANIC = create("panic", Creature.class);
 
     GoalKey<Creature> PARROT_WANDER = create("parrot_wander", Creature.class);
