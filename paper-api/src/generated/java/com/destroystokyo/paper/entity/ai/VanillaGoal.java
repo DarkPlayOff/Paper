@@ -1,33 +1,4 @@
-
-    GoalKey<Tameable> OWNER_HURT = create("owner_hurt", Tameable.class);
-
-    GoalKey<Tameable> OWNER_HURT_BY = create("owner_hurt_by", Tameable.class);
-
-    GoalKey<Tameable> SIT_WHEN_ORDERED_TO = create("sit_when_ordered_to", Tameable.class);
-
-    GoalKey<Tameable> TAMABLE_ANIMAL_PANIC = create("tamable_animal_panic", Tameable.class);
-
-    GoalKey<Turtle> TURTLE_BREED = create("turtle_breed", Turtle.class);
-
-    GoalKey<Turtle> TURTLE_GO_HOME = create("turtle_go_home", Turtle.class);
-
-    GoalKey<Turtle> TURTLE_GO_TO_WATER = create("turtle_go_to_water", Turtle.class);
-
-    GoalKey<Turtle> TURTLE_LAY_EGG = create("turtle_lay_egg", Turtle.class);
-
-    GoalKey<Turtle> TURTLE_PANIC = create("turtle_panic", Turtle.class);
-
-    GoalKey<Turtle> TURTLE_RANDOM_STROLL = create("turtle_random_stroll", Turtle.class);
-
-    GoalKey<Turtle> TURTLE_TRAVEL = create("turtle_travel", Turtle.class);
-
-    GoalKey<Vex> VEX_CHARGE_ATTACK = create("vex_charge_attack", Vex.class);
-
-    GoalKey<Vex> VEX_COPY_OWNER = create("vex_copy_owner", Vex.class);
-
-    GoalKey<Vex> VEX_RANDOM_MOVE = create("vex_random_move", Vex.class);
-
-    GoalKey<Vindicator> VINDICATOR_JOHNNY_ATTACK = create("vindicator_johnny_attack", Vindicator.class);
+r.class);
 
     GoalKey<WanderingTrader> WANDER_TO_POSITION = create("wander_to_position", WanderingTrader.class);
 
