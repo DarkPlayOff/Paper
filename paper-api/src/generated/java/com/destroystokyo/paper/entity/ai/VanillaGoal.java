@@ -1,28 +1,4 @@
 
-    GoalKey<Evoker> EVOKER_CASTING_SPELL = create("evoker_casting_spell", Evoker.class);
-
-    GoalKey<Evoker> EVOKER_SUMMON_SPELL = create("evoker_summon_spell", Evoker.class);
-
-    GoalKey<Evoker> EVOKER_WOLOLO_SPELL = create("evoker_wololo_spell", Evoker.class);
-
-
-    GoalKey<Fox> FOX_STROLL_THROUGH_VILLAGE = create("fox_stroll_through_village", Fox.class);
-
-    GoalKey<Fox> PERCH_AND_SEARCH = create("perch_and_search", Fox.class);
-
-    GoalKey<Fox> SEEK_SHELTER = create("seek_shelter", Fox.class);
-
-    GoalKey<Fox> SLEEP = create("sleep", Fox.class);
-
-    GoalKey<Fox> STALK_PREY = create("stalk_prey", Fox.class);
-
-    GoalKey<Ghast> GHAST_LOOK = create("ghast_look", Ghast.class);
-
-    GoalKey<Ghast> GHAST_SHOOT_FIREBALL = create("ghast_shoot_fireball", Ghast.class);
-
-    GoalKey<Ghast> RANDOM_FLOAT_AROUND = create("random_float_around", Ghast.class);
-
-    GoalKey<Guardian> GUARDIAN_ATTACK = create("guardian_attack", Guardian.class);
 
     GoalKey<Illager> HOLD_GROUND_ATTACK = create("hold_ground_attack", Illager.class);
 
