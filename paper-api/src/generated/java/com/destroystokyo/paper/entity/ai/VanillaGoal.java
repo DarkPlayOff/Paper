@@ -1,35 +1,5 @@
 
 
-    GoalKey<Illager> HOLD_GROUND_ATTACK = create("hold_ground_attack", Illager.class);
-
-    GoalKey<Illager> RAIDER_OPEN_DOOR = create("raider_open_door", Illager.class);
-
-    GoalKey<Illusioner> ILLUSIONER_BLINDNESS_SPELL = create("illusioner_blindness_spell", Illusioner.class);
-
-    GoalKey<Illusioner> ILLUSIONER_MIRROR_SPELL = create("illusioner_mirror_spell", Illusioner.class);
-
-    GoalKey<IronGolem> DEFEND_VILLAGE = create("defend_village", IronGolem.class);
-
-    GoalKey<IronGolem> OFFER_FLOWER = create("offer_flower", IronGolem.class);
-
-    GoalKey<Llama> LLAMA_ATTACK_WOLF = create("llama_attack_wolf", Llama.class);
-
-    GoalKey<Llama> LLAMA_FOLLOW_CARAVAN = create("llama_follow_caravan", Llama.class);
-
-    GoalKey<Llama> LLAMA_HURT_BY = create("llama_hurt_by", Llama.class);
-
-    GoalKey<Llama> TRADER_LLAMA_DEFEND_WANDERING_TRADER = create("trader_llama_defend_wandering_trader", Llama.class);
-
-    GoalKey<Mob> BREAK_DOOR = create("break_door", Mob.class);
-
-    GoalKey<Mob> CLIMB_ON_TOP_OF_POWDER_SNOW = create("climb_on_top_of_powder_snow", Mob.class);
-
-    GoalKey<Mob> EAT_BLOCK = create("eat_block", Mob.class);
-
-    GoalKey<Mob> FLOAT = create("float", Mob.class);
-
-    GoalKey<Mob> FOLLOW_MOB = create("follow_mob", Mob.class);
-
     GoalKey<Mob> INTERACT = create("interact", Mob.class);
 
     GoalKey<Mob> LEAP_AT = create("leap_at", Mob.class);
