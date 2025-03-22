@@ -5,29 +5,6 @@
 
     GoalKey<Evoker> EVOKER_WOLOLO_SPELL = create("evoker_wololo_spell", Evoker.class);
 
-    GoalKey<Fish> FISH_SWIM = create("fish_swim", Fish.class);
-
-    GoalKey<Fox> DEFEND_TRUSTED = create("defend_trusted", Fox.class);
-
-    GoalKey<Fox> FACEPLANT = create("faceplant", Fox.class);
-
-    GoalKey<Fox> FOX_BREED = create("fox_breed", Fox.class);
-
-    GoalKey<Fox> FOX_EAT_BERRIES = create("fox_eat_berries", Fox.class);
-
-    GoalKey<Fox> FOX_FLOAT = create("fox_float", Fox.class);
-
-    GoalKey<Fox> FOX_FOLLOW_PARENT = create("fox_follow_parent", Fox.class);
-
-    GoalKey<Fox> FOX_LOOK_AT_PLAYER = create("fox_look_at_player", Fox.class);
-
-    GoalKey<Fox> FOX_MELEE_ATTACK = create("fox_melee_attack", Fox.class);
-
-    GoalKey<Fox> FOX_PANIC = create("fox_panic", Fox.class);
-
-    GoalKey<Fox> FOX_POUNCE = create("fox_pounce", Fox.class);
-
-    GoalKey<Fox> FOX_SEARCH_FOR_ITEMS = create("fox_search_for_items", Fox.class);
 
     GoalKey<Fox> FOX_STROLL_THROUGH_VILLAGE = create("fox_stroll_through_village", Fox.class);
 
