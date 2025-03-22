@@ -2,30 +2,7 @@
 
     GoalKey<Creature> PANIC = create("panic", Creature.class);
 
-    GoalKey<Creature> PARROT_WANDER = create("parrot_wander", Creature.class);
-
-    GoalKey<Creature> RANDOM_STROLL = create("random_stroll", Creature.class);
-
-    GoalKey<Creature> RANDOM_SWIMMING = create("random_swimming", Creature.class);
-
-    GoalKey<Creature> REMOVE_BLOCK = create("remove_block", Creature.class);
-
-    GoalKey<Creature> RESTRICT_SUN = create("restrict_sun", Creature.class);
-
-    GoalKey<Creature> STROLL_THROUGH_VILLAGE = create("stroll_through_village", Creature.class);
-
-    GoalKey<Creature> TEMPT = create("tempt", Creature.class);
-
-    GoalKey<Creature> TRY_FIND_WATER = create("try_find_water", Creature.class);
-
-    GoalKey<Creature> WATER_AVOIDING_RANDOM_FLYING = create("water_avoiding_random_flying", Creature.class);
-
-    GoalKey<Creature> WATER_AVOIDING_RANDOM_STROLL = create("water_avoiding_random_stroll", Creature.class);
-
-    GoalKey<Creeper> SWELL = create("swell", Creeper.class);
-
-    GoalKey<Dolphin> DOLPHIN_JUMP = create("dolphin_jump", Dolphin.class);
-
+    GoalKey<Creature> PARROT
     GoalKey<Dolphin> DOLPHIN_SWIM_TO_TREASURE = create("dolphin_swim_to_treasure", Dolphin.class);
 
     GoalKey<Dolphin> DOLPHIN_SWIM_WITH_PLAYER = create("dolphin_swim_with_player", Dolphin.class);
