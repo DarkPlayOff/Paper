@@ -2,32 +2,6 @@
 
     GoalKey<Panda> PANDA_AVOID = create("panda_avoid", Panda.class);
 
-    GoalKey<Panda> PANDA_BREED = create("panda_breed", Panda.class);
-
-    GoalKey<Panda> PANDA_HURT_BY = create("panda_hurt_by", Panda.class);
-
-    GoalKey<Panda> PANDA_LIE_ON_BACK = create("panda_lie_on_back", Panda.class);
-
-    GoalKey<Panda> PANDA_LOOK_AT_PLAYER = create("panda_look_at_player", Panda.class);
-
-    GoalKey<Panda> PANDA_PANIC = create("panda_panic", Panda.class);
-
-    GoalKey<Panda> PANDA_ROLL = create("panda_roll", Panda.class);
-
-    GoalKey<Panda> PANDA_SIT = create("panda_sit", Panda.class);
-
-    GoalKey<Panda> PANDA_SNEEZE = create("panda_sneeze", Panda.class);
-
-    GoalKey<Parrot> LAND_ON_OWNERS_SHOULDER = create("land_on_owners_shoulder", Parrot.class);
-
-    GoalKey<Phantom> PHANTOM_ATTACK_PLAYER = create("phantom_attack_player", Phantom.class);
-
-    GoalKey<Phantom> PHANTOM_ATTACK_STRATEGY = create("phantom_attack_strategy", Phantom.class);
-
-    GoalKey<Phantom> PHANTOM_CIRCLE_AROUND_ANCHOR = create("phantom_circle_around_anchor", Phantom.class);
-
-    GoalKey<Phantom> PHANTOM_SWEEP_ATTACK = create("phantom_sweep_attack", Phantom.class);
-
     GoalKey<PolarBear> POLAR_BEAR_ATTACK_PLAYERS = create("polar_bear_attack_players", PolarBear.class);
 
     GoalKey<PolarBear> POLAR_BEAR_HURT_BY = create("polar_bear_hurt_by", PolarBear.class);
