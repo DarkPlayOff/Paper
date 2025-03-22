@@ -1,32 +1,5 @@
 
 
-    GoalKey<Panda> PANDA_AVOID = create("panda_avoid", Panda.class);
-
-    GoalKey<PolarBear> POLAR_BEAR_ATTACK_PLAYERS = create("polar_bear_attack_players", PolarBear.class);
-
-    GoalKey<PolarBear> POLAR_BEAR_HURT_BY = create("polar_bear_hurt_by", PolarBear.class);
-
-    GoalKey<PolarBear> POLAR_BEAR_MELEE_ATTACK = create("polar_bear_melee_attack", PolarBear.class);
-
-    GoalKey<PufferFish> PUFFERFISH_PUFF = create("pufferfish_puff", PufferFish.class);
-
-    GoalKey<Rabbit> RABBIT_AVOID_ENTITY = create("rabbit_avoid_entity", Rabbit.class);
-
-    GoalKey<Rabbit> RABBIT_PANIC = create("rabbit_panic", Rabbit.class);
-
-    GoalKey<Rabbit> RAID_GARDEN = create("raid_garden", Rabbit.class);
-
-    GoalKey<Raider> LONG_DISTANCE_PATROL = create("long_distance_patrol", Raider.class);
-
-    GoalKey<Raider> NEAREST_ATTACKABLE_WITCH = create("nearest_attackable_witch", Raider.class);
-
-    GoalKey<Raider> NEAREST_HEALABLE_RAIDER = create("nearest_healable_raider", Raider.class);
-
-    GoalKey<Raider> OBTAIN_RAID_LEADER_BANNER = create("obtain_raid_leader_banner", Raider.class);
-
-    GoalKey<Raider> PATHFIND_TO_RAID = create("pathfind_to_raid", Raider.class);
-
-    GoalKey<Raider> RAIDER_CELEBRATION = create("raider_celebration", Raider.class);
 
     GoalKey<Raider> RAIDER_MOVE_THROUGH_VILLAGE = create("raider_move_through_village", Raider.class);
 
