@@ -1,37 +1,4 @@
 
-import org.bukkit.entity.Rabbit;
-import org.bukkit.entity.Raider;
-import
-   
-    GoalKey<Bee> BEE_ENTER_HIVE = create("bee_enter_hive", Bee.class);
-
-    GoalKey<Bee> BEE_GO_TO_HIVE = create("bee_go_to_hive", Bee.class);
-
-    GoalKey<Bee> BEE_GO_TO_KNOWN_FLOWER = create("bee_go_to_known_flower", Bee.class);
-
-    GoalKey<Bee> BEE_GROW_CROP = create("bee_grow_crop", Bee.class);
-
-    GoalKey<Bee> BEE_HURT_BY_OTHER = create("bee_hurt_by_other", Bee.class);
-
-    GoalKey<Bee> BEE_LOCATE_HIVE = create("bee_locate_hive", Bee.class);
-
-    GoalKey<Bee> BEE_POLLINATE = create("bee_pollinate", Bee.class);
-
-    GoalKey<Bee> BEE_WANDER = create("bee_wander", Bee.class);
-
-    GoalKey<Bee> VALIDATE_FLOWER = create("validate_flower", Bee.class);
-
-    GoalKey<Bee> VALIDATE_HIVE = create("validate_hive", Bee.class);
-
-    GoalKey<Blaze> BLAZE_ATTACK = create("blaze_attack", Blaze.class);
-
-    GoalKey<Cat> CAT_AVOID_ENTITY = create("cat_avoid_entity", Cat.class);
-
-    GoalKey<Cat> CAT_LIE_ON_BED = create("cat_lie_on_bed", Cat.class);
-
-    GoalKey<Cat> CAT_RELAX_ON_OWNER = create("cat_relax_on_owner", Cat.class);
-
-    GoalKey<Cat> CAT_SIT_ON_BLOCK = create("cat_sit_on_block", Cat.class);
 
     GoalKey<Cat> CAT_TEMPT = create("cat_tempt", Cat.class);
 
